@@ -213,4 +213,5 @@ for our purpose.
 
 
 
-.. code-links:: python clear
+.. code-links:: python clear full
+   :timeout: -1
